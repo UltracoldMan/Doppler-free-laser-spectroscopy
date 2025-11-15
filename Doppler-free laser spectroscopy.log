@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.24)  9 NOV 2025 22:19
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.24)  15 NOV 2025 16:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -874,9 +874,6 @@ Package hyperref Info: Link coloring OFF on input line 57.
 \openout4 = `"Doppler-free laser spectroscopy.out"'.
 
 
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
 \c@lstlisting=\count373
@@ -970,18 +967,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/08/05>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `"Doppler-free laser spectroscopy".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 41835 strings out of 473832
- 1037989 string characters out of 5733157
- 1653716 words of memory out of 5000000
- 64282 multiletter control sequences out of 15000+600000
+ 41833 strings out of 473832
+ 1037943 string characters out of 5733157
+ 1653781 words of memory out of 5000000
+ 64280 multiletter control sequences out of 15000+600000
  565821 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,16n,111p,775b,2329s stack positions out of 10000i,1000n,20000p,200000b,200000s
